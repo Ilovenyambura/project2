@@ -1,3 +1,17 @@
-.header{
+#head {
   background-image: url(../ip2/assets/backgrounds/landing.jpg);
+  text-align: center;
+  padding: 149px;
+  background-position: center;
+  background-size: 100% 100%;
+  width: 900%;
+}
+h1 {
+  color: white;
+  font-weight: lighter;
+  word-wrap: normal;
+  word-wrap: break-word;
+}
+.top {
+  font-weight: 500;
 }
